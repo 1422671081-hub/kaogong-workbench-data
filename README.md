@@ -4,8 +4,8 @@
 
 ## 内容
 
-- `questions.json` —— 全部 43867 题（含答案/解析/分类），约 40MB
-- `img_part1.zip ~ img_partN.zip` —— 4181 张题目配图（已压缩 JPEG），解压后合计约 300MB
+- `questions.json` —— 全部 43867 题（含答案/解析/分类），约 76MB
+- `img_part1.zip ~ img_partN.zip` —— 4181 张题目配图（已压缩 JPEG），解压后合计约 225MB
 
 ## 换电脑恢复步骤
 
